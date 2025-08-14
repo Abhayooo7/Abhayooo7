@@ -51,11 +51,19 @@
 
 ## Featured Projects 📂🚀💼
 
-\*\* pinned repositories:\*\*
+<details>
+<summary><b>RSS Aggregator (Go)</b></summary>
+Command-line RSS aggregator built in Go that fetches and organizes feed updates efficiently.
+- Repo: `RSS_Aggregator`
+- Highlights: Go, feed parsing logic, CLI usability
+</details>
 
-* Hand\_Written\_Digit\_Recognition
-* AR\_Shooter
-* RSS\_Aggregator
+<details>
+<summary><b>Crowd Counting via CNN (ShanghaiTech)</b></summary>
+Density estimation model based on CNN, trained and validated on the ShanghaiTech A/B dataset. Includes data preprocessing, training scripts, and evaluation notebooks.
+- Repo: `crowd-counting-cnn`
+- Highlights: TensorFlow/Keras, MAE evaluation, Jupyter notebook demos
+</details>
 
 <details open>
 <summary><b>Hand Written Digit Recognition (PureBasic)</b></summary>
@@ -69,20 +77,6 @@ Handwritten digit recognition system built using PureBasic — minimal yet effec
 Augmented Reality shooting game built with Unity and ARKit, featuring immersive gameplay with object tracking and real-time interactions.
 - Repo: `AR_Shooter`
 - Highlights: Unity, C#, ARKit integration, interactive experience
-</details>
-
-<details>
-<summary><b>RSS Aggregator (Go)</b></summary>
-Command-line RSS aggregator built in Go that fetches and organizes feed updates efficiently.
-- Repo: `RSS_Aggregator`
-- Highlights: Go, feed parsing logic, CLI usability
-</details>
-
-<details>
-<summary><b>Crowd Counting via CNN (ShanghaiTech)</b></summary>
-Density estimation model based on CNN, trained and validated on the ShanghaiTech A/B dataset. Includes data preprocessing, training scripts, and evaluation notebooks.
-- Repo: `crowd-counting-cnn`
-- Highlights: TensorFlow/Keras, MAE evaluation, Jupyter notebook demos
 </details>
 
 <details>
