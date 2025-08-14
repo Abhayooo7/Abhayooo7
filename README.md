@@ -1,5 +1,3 @@
-# Abhay Mahajan — GitHub Profile ✨🚀🌌
-
 <!-- Banner -->
 
 <p align="center">
