@@ -9,12 +9,19 @@
 ## Introduction 🌟💻⚡
 
 <p align="center">
-  <a href="https://github.com/Abhayooo7"><img src="https://komarev.com/ghpvc/?username=Abhayooo7&label=Profile%20Views&style=flat" alt="Profile views"/></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:abhaymahajan0007@icloud.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/abhay-mahajan-2a67021b5">LinkedIn</a>
+  <a href="mailto:abhaymahajan0007@icloud.com">
+    <img src="https://img.icons8.com/ios-filled/30/00d4ff/new-post.png" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abhay-mahajan-2a67021b5">
+    <img src="https://img.icons8.com/ios-filled/30/00d4ff/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Abhayooo7">
+    <img src="https://img.icons8.com/ios-glyphs/30/00d4ff/github.png" alt="GitHub"/>
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=AI+Trainer+%26+Prompt+Engineer;Open+Source+Contributor;Web+Dev+%7C+MLOps+%7C+Computer+Vision;Always+learning">
@@ -37,7 +44,7 @@
 ## Tech Stack 🖥️🔧📊
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,go,javascript,tensorflow,keras,opencv,numpy,pandas,git,docker,kubernetes,ansible,linux,html,css,php,mysql,bootstrap&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,go,javascript,tensorflow,opencv,git,docker,kubernetes,ansible,linux,html,css,php,mysql,bootstrap&theme=dark"/>
 </p>
 
 ---
@@ -87,17 +94,6 @@ Responsive e-commerce storefront with full payment integration, built using PHP 
 
 ---
 
-## GitHub Stats 📈📊💻
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhayooo7&show_icons=true&hide_title=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Abhayooo7&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
-</p>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhayooo7&layout=compact&hide=html,css&langs_count=8"/>
-</p>
-
----
 
 ## Experience 💼🛠️📜
 
@@ -118,8 +114,15 @@ Responsive e-commerce storefront with full payment integration, built using PHP 
 ## Contact 📬📞🌐
 
 <p align="center">
-  <a href="mailto:abhaymahajan0007@icloud.com">abhaymahajan0007@icloud.com</a> ·
-  <a href="https://www.linkedin.com/in/abhay-mahajan-2a67021b5">LinkedIn</a>
+  <a href="mailto:abhaymahajan0007@icloud.com">
+    <img src="https://img.icons8.com/ios-filled/30/00d4ff/new-post.png" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abhay-mahajan-2a67021b5">
+    <img src="https://img.icons8.com/ios-filled/30/00d4ff/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
 </p>
+
 
 ---
