@@ -1,3 +1,5 @@
+---
+
 # Abhay Mahajan — GitHub Profile ✨🚀🌌
 
 <!-- Banner -->
@@ -20,70 +22,67 @@
   <a href="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=AI+Trainer+%26+Prompt+Engineer;Open+Source+Contributor;Cloud+Native+%7C+MLOps+%7C+Computer+Vision;Always+learning">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=AI+Trainer+%26+Prompt+Engineer;Open+Source+Contributor;Cloud+Native+%7C+MLOps+%7C+Computer+Vision;Always+learning" alt="typing animation"/>
   </a>
-</p> 🌐🔍🛠
+</p>  
+🌐🔍🛠
 
 ---
 
 ## About Me 🌱🧠💡
 
-* AI Trainer / Prompt Engineer with hands-on RLHF, data tooling, and quality review.
-* Primarily work in Python, with additional experience in C++, Java, Go, and JavaScript.
-* Passionate about cloud-native and DevOps tools — Docker, Kubernetes, GitHub workflows.
+* AI Trainer / Prompt Engineer with hands-on experience in RLHF, data tooling, and quality review.
+* Proficient in Python, with additional experience in C++, Java, Go, and JavaScript.
+* Enthusiastic about cloud-native and DevOps tools — Docker, Kubernetes, and GitHub workflows.
 * B.Tech in Information Technology, Manipal University Jaipur — CGPA 9.56.
-* Currently building a **Cloud-Native Monitoring App** and computer vision solutions.
 
 ---
 
 ## Tech Stack 🖥️🔧📊
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,go,javascript,tensorflow,keras,opencv,numpy,pandas,git,docker,kubernetes,ansible,linux,html,css,php,mysql,bootstrap&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,go,javascript,tensorflow,opencv,git,docker,kubernetes,ansible,linux,html,css,php,mysql,bootstrap&theme=dark"/>
 </p>
 
 ---
 
 ## Featured Projects 📂🚀💼
 
-> Tip: Pin the top 6 repositories on your profile for quick discovery.
+* Hand\_Written\_Digit\_Recognition
+* AR\_Shooter
+* RSS\_Aggregator
 
 <details open>
-<summary><b>Cloud‑Native Monitoring (Python · Kubernetes)</b></summary>
-Real‑time microservices health dashboard targeting Kubernetes clusters. Displays pod and service statuses, basic metrics, and integrates alerting.
-- Repo: <code>cloud-native-monitoring</code>  
-- Highlights: Python, Kubernetes API, dashboard UI, containerized
-- Badges:
-  <img src="https://img.shields.io/badge/Python-3.x-informational"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Client-blue"/>
-  <img src="https://img.shields.io/badge/Container-Docker-informational"/>
+<summary><b>Hand Written Digit Recognition (PureBasic)</b></summary>
+Handwritten digit recognition system built using PureBasic — minimal yet effective for character classification tasks.
+- Repo: `Hand_Written_Digit_Recognition`
+- Highlights: PureBasic implementation, simple logic, educational purpose
+</details>
+
+<details>
+<summary><b>AR Shooter (Unity · C# · ARKit)</b></summary>
+Augmented Reality shooting game built with Unity and ARKit, featuring immersive gameplay with object tracking and real-time interactions.
+- Repo: `AR_Shooter`
+- Highlights: Unity, C#, ARKit integration, interactive experience
+</details>
+
+<details>
+<summary><b>RSS Aggregator (Go)</b></summary>
+Command-line RSS aggregator built in Go that fetches and organizes feed updates efficiently.
+- Repo: `RSS_Aggregator`
+- Highlights: Go, feed parsing logic, CLI usability
 </details>
 
 <details>
 <summary><b>Crowd Counting via CNN (ShanghaiTech)</b></summary>
-CNN model generating density maps trained and validated on ShanghaiTech A/B. Includes data preparation, training scripts, and evaluation notebook.
-- Repo: <code>crowd-counting-cnn</code>  
-- Highlights: TensorFlow/Keras, MAE evaluation, notebooks
-- Badges: <img src="https://img.shields.io/badge/TensorFlow-2.x-orange"/>
+Density estimation model based on CNN, trained and validated on the ShanghaiTech A/B dataset. Includes data preprocessing, training scripts, and evaluation notebooks.
+- Repo: `crowd-counting-cnn`
+- Highlights: TensorFlow/Keras, MAE evaluation, Jupyter notebook demos
 </details>
 
 <details>
-<summary><b>MNIST Digit Recognition (CNN)</b></summary>
-A clean CNN baseline for MNIST digit recognition, with reproducible training and quick demo.
-- Repo: <code>mnist-cnn-baseline</code>
-- Highlights: Keras, notebook demo, metrics badges
-</details>
-
-<details>
-<summary><b>Mobishop — E‑commerce (PHP · MySQL)</b></summary>
-Responsive e-commerce storefront with payment gateway integration.
-- Repo: <code>mobishop-ecommerce</code>
-- Highlights: PHP, MySQL, Bootstrap, payment integration
-</details>
-
-<details>
-<summary><b>AR Shooting (iOS · Unity/C# · ARKit)</b></summary>
-Immersive AR game with object tracking and enemy AI.
-- Repo: <code>ios-arkit-ar-shooter</code>
-- Highlights: Unity/C#, ARKit, gameplay loop
+<summary><b>Mobishop — E-commerce (PHP · MySQL)</b></summary>
+Responsive e-commerce storefront with full payment integration, built using PHP and MySQL with a Bootstrap frontend.
+- Repo: `mobishop-ecommerce`
+- Highlights: PHP, MySQL, responsive design, payment gateway
 </details>
 
 ---
@@ -91,7 +90,7 @@ Immersive AR game with object tracking and enemy AI.
 ## Experience 💼🛠️📜
 
 * AI Trainer / Prompt Engineer — Scale AI / Upwork (Remote)
-* Open‑Source Contributor — Unify.AI (Ivy project)
+* Open-Source Contributor — Unify.AI (Ivy project)
 * Intern (Developer) — Salesforce
 * Intern (Developer) — Selection The Designer (Fashion Startup)
 
@@ -111,4 +110,4 @@ Immersive AR game with object tracking and enemy AI.
   <a href="https://www.linkedin.com/in/abhay-mahajan-2a67021b5">LinkedIn</a>
 </p>
 
-
+---
