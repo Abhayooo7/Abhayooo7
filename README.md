@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=AI+Trainer+%26+Prompt+Engineer;Open+Source+Contributor;Cloud+Native+%7C+MLOps+%7C+Computer+Vision;Always+learning">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=AI+Trainer+%26+Prompt+Engineer;Open+Source+Contributor;Cloud+Native+%7C+MLOps+%7C+Computer+Vision;Always+learning" alt="typing animation"/>
+  <a href="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=AI+Trainer+%26+Prompt+Engineer;Open+Source+Contributor;Web Dev+%7C+Computer+Vision;Always+learning">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=AI+Trainer+%26+Prompt+Engineer;Open+Source+Contributor;Web Dev%7C+Computer+Vision;Always+learning" alt="typing animation"/>
   </a>
 </p>  
 🌐🔍🛠
