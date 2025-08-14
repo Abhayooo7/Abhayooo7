@@ -3,7 +3,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="/assets/banner.svg" alt="Abhay Mahajan — AI/ML • DevOps • Cloud" width="100%"/>
+  <img src="../assets/banner.svg" alt="Abhay Mahajan — AI/ML • DevOps • Cloud" width="100%"/>
 </p>
 
 ## Introduction 🌟💻⚡
