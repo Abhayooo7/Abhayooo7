@@ -92,7 +92,6 @@ Responsive e-commerce storefront with full payment integration, built using PHP 
 * AI Trainer / Prompt Engineer — Scale AI / Upwork (Remote)
 * Open-Source Contributor — Unify.AI (Ivy project)
 * Intern (Developer) — Salesforce
-* Intern (Developer) — Selection The Designer (Fashion Startup)
 
 ---
 
